@@ -1,0 +1,26 @@
+{
+  "name": "Michael Delgado",
+  "age": 29,
+  "address": {
+    "street": "Pedta Drive",
+    "city": "Bituleb",
+    "state": "AL",
+    "zip": "07752"
+  },
+  "contact": {
+    "phone": "(417) 800-2646",
+    "servicePhone": "800281181"
+  },
+  "birthday": "1993-05-07T20:59:17.510Z",
+  "ip": "148.147.206.142",
+  "foo": "bar",
+  "profile": {
+    "about": "Upe el rad muh fifen eb um ubdapso tustol zivrasa juriga edawfun. Jofsaw ehomod te do ilpo sauh pis sezijla ak odi voveh uw kepug co gikzowju bakickaw. Gotelo nenzug zesowoaf sisublir fublensim cu tuwud go hiafeba nehcapaz ti cekoegi jat lunuur.",
+    "bio": "Jofcoku wasab je wo ufvozo zopop bucif gec gavo desig guta cu bek lidubooru tus ecmece. Fonowej usru tum hoor vaakuruf wib feppajjun kepiro busozi wozu tuoka pacpas bidej li fi bulud. Tagrah ma gehwok zodrelwes hom nes ze tizo koh gu humahne ife eh bocsa. Ewohihwi jicoce avefew ruzfed zuhco dauwlu sozor gomvibi aduka opsef ah lisuvec biupoku rem agefagap tir padagaow nincam. Apoote jiji te zowmocuv sucew ansafuj itu fosnog ta jejewi ros jo ucvovrus locuuze ige oh. Bedeh ru mortenze apa bim ejnuched kogutliw win pu re nakoj zu oku. Hacsi suroriaro zoproh us ukceide oh siva honeto wuh har kezaz vido jo nimranoca vobedraz."
+  },
+  "apiKey": "27b68f7b6ce44c8d4bbbb852faf08fa09696994e161d71acf1e245423d8b71b2",
+  "currency": {
+    "code": "CUP",
+    "name": "Cuba Peso"
+  }
+}
