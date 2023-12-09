@@ -1,0 +1,26 @@
+{
+  "name": "Richard Munoz",
+  "age": 65,
+  "address": {
+    "street": "Jaeko Extension",
+    "city": "Edfekzel",
+    "state": "MI",
+    "zip": "81035"
+  },
+  "contact": {
+    "phone": "(570) 613-7991",
+    "servicePhone": "800771865"
+  },
+  "birthday": "2002-09-12T03:29:51.769Z",
+  "ip": "15.225.49.106",
+  "foo": "bar",
+  "profile": {
+    "about": "Acowofu hu mul gu zohikne nolgezmi ve kekazlet azujejin tivulike aggubluv ceda jucjo hawseuta mikdob so. Bahji tal mile ajduk ge iwpi suddioha cetibu al ozasap ku bacdi erako kifkazoh. Rod al ip jetikol ul fuve ca hagidbi me silobud erueju saczardic gapgodhar raez gehge fogivhu ninlodab. Kawjoles su uvuhu uhijofcom ubgednoj kotruf roco ojavaka saukeire utdaw oraku enimu bites gosol ronu jov mug leh. Mesepluh hus gov vap kagolava teb gu riwsait ec ozeumipi nav vunizesa oczimeh mon alnelje upalaoc neivi. Nuosi jefopaosa nizno ahapasuv jif mudofwat dipgir ma ara misuk hel vugafe.",
+    "bio": "Pacoc umi sa voh bu vipja niti za bepe cifeg rehos wiftilem usu. Lu sati zoba ce hurbore onbubwat giwav zesme bobbudi cun bupasi nezohubu ta giwag. Gi buhuces relke kelisefi fetubti ica sohobgaw tirfa uwazib ge ni niejvo jan gimowak nikne tetadsa huevali."
+  },
+  "apiKey": "39da290814cf19de431c164c7a40e4966e52bfcdf28fbea97d3a08de824e8967",
+  "currency": {
+    "code": "CUC",
+    "name": "Cuba Convertible Peso"
+  }
+}
