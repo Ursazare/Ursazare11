@@ -1,0 +1,26 @@
+{
+  "name": "Tommy Gibbs",
+  "age": 36,
+  "address": {
+    "street": "Fumba Highway",
+    "city": "Taruvew",
+    "state": "IA",
+    "zip": "97350"
+  },
+  "contact": {
+    "phone": "(351) 698-2947",
+    "servicePhone": "800997796"
+  },
+  "birthday": "1990-08-20T03:23:55.600Z",
+  "ip": "123.29.36.88",
+  "foo": "bar",
+  "profile": {
+    "about": "Ruin fiahda nagi hespul ke dezrogje duzseb muduk sip sabep fumop zatril. Udhi cutge siktotem dalhioco re go naltod rudve livbad gokakvil gihsireg gepezne vekopto muwafi ralet uduezifil mitruzi nato. Ve hojpuctob roc koohuud feudo erboogo maget zu iruvab pelriad lefa biafu luwpa geeri bopmolic joor.",
+    "bio": "Isojiov su seb sufter lizeznav bajmog zi vikata heji tisbujtor ke miudhuw magpikpuv hamfemel zuc dela bonzez zuwrauni. Meav hi pudanu wi pacizum ivdi fensiv mitew fe bezjigbug tulbo ejeriw cutawnuf mo. Selubi tojrulib riberutu isa fu lourauw dipbuwti nacop nigeida is tucigja doaloma narecuf som iloraap fojebam. Ki capu veneheeke oca so itwamhu niwe nijufvec meekaoh hubip piatbeb bic loku jenu feen."
+  },
+  "apiKey": "20691cada65f08dafb269b697362095f75760500bad593d8bf8243995715ce08",
+  "currency": {
+    "code": "ZWD",
+    "name": "Zimbabwe Dollar"
+  }
+}
