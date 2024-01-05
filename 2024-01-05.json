@@ -1,0 +1,26 @@
+{
+  "name": "Billy Mills",
+  "age": 24,
+  "address": {
+    "street": "Kopero Grove",
+    "city": "Ziponso",
+    "state": "KS",
+    "zip": "03622"
+  },
+  "contact": {
+    "phone": "(672) 210-1023",
+    "servicePhone": "800572232"
+  },
+  "birthday": "1989-08-20T21:25:56.333Z",
+  "ip": "151.37.89.39",
+  "foo": "bar",
+  "profile": {
+    "about": "Wuabi adohorin za zo dawlase fuope iv iw kifju rofmabwa aho naatri kevgo kiuwo uv enre jat. La boldohdig jawku cov fuonitih wu kefuze vicuj aciej ureje hundali juipata omoteziz ruh. Zofimaw wuamaek um goppa imgonsaz cugret pituco ivzobom fulsavfi jodpaga goj alo ziwehbuv. Po gom cem bupdungup enkav tadiliof cisavuvi otaaga zotarko nuholrog oju upifof ki ikjiedu fedziw jihvinrim vankanet zozbovuf. Jim nij ezwal esilehat logseb famad dar ba umo pautof sic gorir muf ahremfa casigbod beuhi.",
+    "bio": "Raknujef jiumwa nohhahfag ne or gume pedlisil komgu aje vo ge roeduafu rowlowu inbidfo petzer. Oco comtumop rav lo tozgij negbu azaga wa vojjasij hac nurunbi ilipu. Nu lamaf vowewfi vudo refoten zaboz pihape cigez hisijah vavkijle guje loufo."
+  },
+  "apiKey": "01bb3b05913e6a500d9cfac1b56b20fa8f2b8e615da22bdede926316017a8336",
+  "currency": {
+    "code": "BTN",
+    "name": "Bhutan Ngultrum"
+  }
+}
