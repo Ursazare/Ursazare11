@@ -1,0 +1,26 @@
+{
+  "name": "Gerald Ray",
+  "age": 25,
+  "address": {
+    "street": "Vulo Avenue",
+    "city": "Minritbe",
+    "state": "TX",
+    "zip": "06040"
+  },
+  "contact": {
+    "phone": "(228) 456-8884",
+    "servicePhone": "800926287"
+  },
+  "birthday": "1994-05-24T15:55:09.865Z",
+  "ip": "84.55.126.176",
+  "foo": "bar",
+  "profile": {
+    "about": "Lisesje ubiolaf imoki weguvu vam ecuhiggid uz zo iva cimki awjar hefabot mok hup caod. Udfus haw huasi ro jihajaoh tuvvi huksi hamre alocigrim colahep ape ukhun higabi uc dosawzif. Eka kosrijdi lofevot epusuf duhan af mace vi gedu tid cit ulovub paijzi.",
+    "bio": "Nu get betopwi piwa miheli batel roj roncikru gis no tum lijuuke pin nunuc wor lu. Idojajsib wem mijif ceropfe en zawis ucewa salisoz sutti hi pizi azagimu had. Tafacto damlo ufouco lokrap uf rezcuca vu wu gahug ib cajoco favsa erufisi rotkirru wu. Jongip ju piuhwi nodtom kicweka iztib achaw hes dah gidhimoso co pupam wati revihni vuctala."
+  },
+  "apiKey": "ae18ef07b591ee804847fc664279962dd3494ed23c100c17ffa1a23e14b9fb69",
+  "currency": {
+    "code": "VND",
+    "name": "Viet Nam Dong"
+  }
+}
