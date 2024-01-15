@@ -1,0 +1,26 @@
+{
+  "name": "Ryan Garcia",
+  "age": 35,
+  "address": {
+    "street": "Kaku Street",
+    "city": "Heghomcis",
+    "state": "TX",
+    "zip": "03330"
+  },
+  "contact": {
+    "phone": "(542) 222-7355",
+    "servicePhone": "800557582"
+  },
+  "birthday": "1997-09-21T01:53:46.332Z",
+  "ip": "61.138.192.251",
+  "foo": "bar",
+  "profile": {
+    "about": "Igosetod bi tufig ovu zef ne fiz mam kez sopokel had jobenum becuzi. Ifa huno kileb ase ni bawib wagpitwe piehfu mumziznaf lizta wahwu ukolo hawfuvjas wuronag wazsud. Do kifebid liaceeke lodfac kohze ci babfa suf woca ikzun regrauz sonadji sag citnife padapa ze pe wodhowub. Dokgiju ra biha ovuzika kuih linul vihmuf giumgo pal ki forhen bejonmed obojal aw fip upri.",
+    "bio": "Fehpoda edueh wir weawelen cu de biwlado voj sanalawa jago metmofdis fi gofto hit. Amugieb heije kudubol titu gakik oji jicukafak tiwzedun nuh kilpojduw ehugih webozri bofawi woktoset menok. Cub micmoeja ujepe mewlo apba irboz pam cugor ju zafhus ucmew ci."
+  },
+  "apiKey": "bb919170c77ea57a6e27c5c2a6caec31417af5ca69b7eecb6a8a0bc0b5b914c6",
+  "currency": {
+    "code": "AOA",
+    "name": "Angola Kwanza"
+  }
+}
