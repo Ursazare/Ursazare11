@@ -1,0 +1,26 @@
+{
+  "name": "Fred Bates",
+  "age": 36,
+  "address": {
+    "street": "Wujej Mill",
+    "city": "Telgajla",
+    "state": "VA",
+    "zip": "61350"
+  },
+  "contact": {
+    "phone": "(737) 423-3043",
+    "servicePhone": "800421792"
+  },
+  "birthday": "1985-06-04T11:06:51.233Z",
+  "ip": "15.67.3.58",
+  "foo": "bar",
+  "profile": {
+    "about": "Kaos hujwizic fonog zi cor dete hu re zorihalo egujiika sapevba zatjuwpek cohuklul eso. Go eso vevjufdub bawrera diw muwgiz ju uhsanuho ri buociawa kabbamca wupbaf adpafu nukgip nur liw. Dico zes usazo mewa tod cuvetu navti li virme hal dis pe. Sizhidi ja tir lobocpu pa facehir ma ihipaus mof pa joj ifi poavo fut sebiuj.",
+    "bio": "Tub uhihapi tueka palpih as nujep ucauze ukaosfiw bog eh or viz fuguz. Na jibpit ojdomo pipehjel ruwirafa dojujzoh do penam ge gaben loboh pa wohunut kujum okeusafas. Cija porutu jugdoz kor iruce wes une abebi por aksak otezeric godzej jiv fetueta setcod uvcih ma kad. Jopo pizmalfe ebdaunu ci dohakzuc ahopuj daezode pesijfoj gacop pu otuju cozugece ogu hawru. Ufwu jucdoz ebuvigi wundiju gitbev gedlad dov rabluril how rohuk oro zopde podos na kuk. Faponco fike cijduffel delu rahow ditac epa rubrauvo kedezro gum padpebi peviv vacmeme vi hupzac."
+  },
+  "apiKey": "caf3a9cf50695ffeafc35287ede3651c8630fa75f14fecf723020d8e54b95245",
+  "currency": {
+    "code": "LBP",
+    "name": "Lebanon Pound"
+  }
+}
