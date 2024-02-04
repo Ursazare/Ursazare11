@@ -1,0 +1,26 @@
+{
+  "name": "Lizzie Fox",
+  "age": 43,
+  "address": {
+    "street": "Zubli Court",
+    "city": "Inovgic",
+    "state": "AZ",
+    "zip": "87873"
+  },
+  "contact": {
+    "phone": "(958) 946-4102",
+    "servicePhone": "800958914"
+  },
+  "birthday": "1967-12-20T04:38:19.305Z",
+  "ip": "202.193.247.210",
+  "foo": "bar",
+  "profile": {
+    "about": "Vowpa pusimo winjog woj parup dujhu oc ser ve vucna ub pe jaf. Mebfapza lucit seri zab bihinsu segsi vavopte tudpav guros fahceloz mulic cemwes. Egoko ovinuh onvu ko seporhap zuzu sinobel cutmeka bape woemneg riznal sunnali cigtabkuh juvdu tekitut fanehiro lif jurdac. Kujulik vuzu jeskirtu goopkat ewaho pu kaowa sibe nolot ba wevkag rocrepa gumicpi no ohizarik sojol gogada.",
+    "bio": "Ded sanoz hobminlov gelju ewo jebukhe vul nogsec peseap cet fuhuz ow gehupa idi gekutkoc mohan no. Inhivo sunuhu ipazafkih do on vadsunep tamrug tuijnal im pidpuroz zic ruojaivu ifeuroje gumef peruv zuzulvak. Uv uzsa bavha luw kiz ra pasu we co rin gealhu subbosot toihozuw padowi hoera una ceahtu."
+  },
+  "apiKey": "c86428a607bdb1b232e9b2501ab4567a7809dc8a9c9f54baf86452ca67d2f919",
+  "currency": {
+    "code": "GHS",
+    "name": "Ghana Cedi"
+  }
+}
