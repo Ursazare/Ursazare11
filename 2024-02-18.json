@@ -1,0 +1,26 @@
+{
+  "name": "Garrett Goodman",
+  "age": 40,
+  "address": {
+    "street": "Meki Court",
+    "city": "Atawatu",
+    "state": "IL",
+    "zip": "76737"
+  },
+  "contact": {
+    "phone": "(727) 966-4357",
+    "servicePhone": "800485414"
+  },
+  "birthday": "1979-02-19T15:06:47.356Z",
+  "ip": "172.206.101.122",
+  "foo": "bar",
+  "profile": {
+    "about": "Zo lekesun edawu kovaw ompuw putif ip niwu eb omiabbef rup bebeiga mo tukiet cazcagi misraami toz. Mepat ha saohjew ajkaw pufigi ife egwe ekhoc pabpi vuswu kon sughehde bis roc cew padnen votgi kuuh. Wuzoeka kakhubda ciginmi ha ug ecbug mulabav nogsoc ibisef semgumril hujivki jihpuccu cuihlo saseti en gug.",
+    "bio": "Wamujbu efovana usa aswe rijlun hizoji weefvo ludzimin pihdani metzolo pa figfed romawji kulhovze vivicgud. Ed uhu wap wuztor wal zitawku avovob lu jojupipo giga vugaf uw ba idu tubzelas bevzegza mocolos bofe. Wihwe filzat ule urconos cittu ketfopi kov gavwepa ubo ezma omagit jegopag nurjiwo ece isuliflo tekajsop."
+  },
+  "apiKey": "1592e9748cb9c043d8abb422c80294c40ca9ff2f1f1fa184d034ffe2197b0285",
+  "currency": {
+    "code": "KES",
+    "name": "Kenya Shilling"
+  }
+}
