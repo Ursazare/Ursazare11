@@ -1,0 +1,26 @@
+{
+  "name": "Ray Palmer",
+  "age": 42,
+  "address": {
+    "street": "Vuleh Turnpike",
+    "city": "Hejutmi",
+    "state": "MS",
+    "zip": "14501"
+  },
+  "contact": {
+    "phone": "(413) 935-8002",
+    "servicePhone": "800225346"
+  },
+  "birthday": "1977-09-09T23:30:26.001Z",
+  "ip": "160.192.188.146",
+  "foo": "bar",
+  "profile": {
+    "about": "Wej tadufi uh penolnek nec pu nafci fanenta hot jiap kanziti tuwa. Kaer fehumisi dit ahouco burka ginmem pambugsiw sosoave hov sekto vu si jihkol rarfil. To vuvavdew jeubwe ro vovusvah tu ulugizo jocoklo jofune him ecewav nu ersa va bewpizig hejam. Pogne metioge wi wosazih offurked ekedezeb jus firej ka zazinpaw dofjunhom so bujidne de kupo fuf hofjada. Fubbek zefe ruelhik muj gupuclo caop dufebab dahuran avili zedujgi ge bep fas nac.",
+    "bio": "Lirap rikiv vob mozkuzgu ruhkic te to caolo vawwuvwis du tiwluho es varew dimsuw vugpagul amezovri jedav nethew. Niba gicwaas bo zeg har fo hizhehbaz goseco ko zirdijip uto educes mimuvlus bahkassu neop. Lahtawpow zofic rawmu jetmaup nomeni towkut pinos esuahaboc lad cop emo va zugipgi jo zoiza bukpeave efpeevo. Vakefu deefe obeor eca sul tepiwe wesbecaz fivihok movib cucunlub viwaha ni zihetta kurrad fub meazuho tujowupuf fambef. Emmid jibu evabeemu heucaso do wemo birmuz huguat voig ulo hice ih navi iloulitu uzira fu gubso afcidi. Ojdevcu jielozo godelna na vevtoha gi ro rohzordi timewjan nudsi zewit guiw felwaeme kokasu ca haronse. Paf jacsofjo zodaz wueciw rijgij it udzo sav sonomak gohdov lafisar wovema."
+  },
+  "apiKey": "e33a2d96f267dbffb98215397683fef8429bb8a38e2cb5e3c5c4717d6e2f5be6",
+  "currency": {
+    "code": "SVC",
+    "name": "El Salvador Colon"
+  }
+}
