@@ -1,0 +1,26 @@
+{
+  "name": "Mike Moran",
+  "age": 21,
+  "address": {
+    "street": "Vamsot Terrace",
+    "city": "Ogdokli",
+    "state": "MT",
+    "zip": "44322"
+  },
+  "contact": {
+    "phone": "(444) 268-5687",
+    "servicePhone": "800323237"
+  },
+  "birthday": "1995-04-16T00:17:51.423Z",
+  "ip": "158.217.2.188",
+  "foo": "bar",
+  "profile": {
+    "about": "Dasa sufo kel mif demewaudo urcul tuj itjo wewnip fuw gejjiklu awiezwu cimuto sebkic. Nun socmud li het cohi gihjaunu owohonap ricefo deilizak aliga vi fimpemase susmi. Wevuhten nujvo tibugab wa upiomsaj mejoiga jozipu ac som ugug ge oz dip epeol ul lapwas ga.",
+    "bio": "Wiblozjiv odegecud picpa fi mituevu temgu ahpumun lutuji fe jisli cozow job pehivge si mojaj fuhbug ulsapicu ivwavci. Jedvel alare jenpi lap nubpuf debrinefo tu vuage nivuzfo memvi maape cabsuv uneenidik. Zifi daobowe dabul buj zo colfe bogki naaci ce bizupnuf pid riz watteton ukenu ti icnabjes tosuhe teokko. Gow jedbaw obaavcun naralpu kefozupon tejfobko kedludah miz no hepoc asweg rafhasef uboletun ogu ju gaglod. Rifjenoc lilze enwefve buntapas eluvi ragsuz hup nuhimoj hij depgecfum kogipu hunno usejefe gonaad. Ehtaf on ro zivape ira kipelama juhotir cir roel so daclih huevono tutane orwi lul jud ideibooli. Hufarzib zitisop juvpog ojuguj kah wef sageg jagmapne gibokuja er esivewu epwoju kuob lemabe fud."
+  },
+  "apiKey": "3635ba2e1ce0ddf9109a2c1e81c91257993cc8a7f362812914e9b36de5e70129",
+  "currency": {
+    "code": "MUR",
+    "name": "Mauritius Rupee"
+  }
+}
