@@ -1,0 +1,26 @@
+{
+  "name": "Belle Doyle",
+  "age": 18,
+  "address": {
+    "street": "Cipuc Ridge",
+    "city": "Paecuvan",
+    "state": "AK",
+    "zip": "95201"
+  },
+  "contact": {
+    "phone": "(703) 625-7753",
+    "servicePhone": "800775162"
+  },
+  "birthday": "1986-04-24T08:38:35.879Z",
+  "ip": "82.209.114.201",
+  "foo": "bar",
+  "profile": {
+    "about": "Om tu fujitatit ga koafoopu bielo aso colisi fouzihe kijhigam lafmet piohumaf ka jepsa sicefsif siwacah ikazol. Amefu kug mipfiput bajopo na utzug udafi kahohiofe jo tamrot bujig vegfo rirepudaf asief. Hof vif igu cog tek cuag dooz bomlilzap ic fucasun pig ne tu pe eca anu gukkeuza.",
+    "bio": "Ewupif jacfib lehag owa hanoceg ibimiw mifpi ririmu lon ezevinah pe degbi nad hige vo. Ga ovhaj usu husef ul buwral huhpokuzi ejiwile acreifu kulweaka af zuirvaw ji ohiejunun bu gukacwe udoso. En gusma ziggepa jikzi ga wasjo ifre jo weegiloh em heazefum oce jarekej tumhit cazilih fi. Ilsasle gimu ehvo gatkon zu mapavuguh sawevpic soncawi zimsud hu cejabve bicon esfaj. Ruibi podvoko ra nerbe saha supgak reos wa ku faccuomi ewe loccappom kiwzi daos vaeb. Tifmagal pif egze iw nuz zodsel duncod lozi hu owube siwtumo wiwdumi acji sokfot."
+  },
+  "apiKey": "94b997759de4148d71a3135c2af722f32358d38b5d35ae6e71927df2c90bca8b",
+  "currency": {
+    "code": "MGA",
+    "name": "Madagascar Ariary"
+  }
+}
