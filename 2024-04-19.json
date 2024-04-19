@@ -1,0 +1,26 @@
+{
+  "name": "Jeffery Coleman",
+  "age": 28,
+  "address": {
+    "street": "Fizeb Way",
+    "city": "Devlebkom",
+    "state": "SD",
+    "zip": "55691"
+  },
+  "contact": {
+    "phone": "(475) 335-9782",
+    "servicePhone": "800229471"
+  },
+  "birthday": "1977-06-16T03:30:28.452Z",
+  "ip": "206.33.205.121",
+  "foo": "bar",
+  "profile": {
+    "about": "Cokobil eri sed boj uvuru neowimov kuf zubcipba ut deda ef fed merni gaetowe zuviraku iraec ponvaj. Ar pejhuj hug vor zem ojoledvaz tetojasuv uwehududo li sabtu ija wefanje omnuf zorol. Mig muhgaj comutlu lucibvif soupe ge fa ruv hal bobaw tal pij.",
+    "bio": "Lu fosoj pikfukda caz li foljuisi eka jan on ocro oza doz vipageb ruhdi ikmu. Palseed mulejcun ug mibkoc bucogfac oraweja mancok jacudpi odco vajbuwfof bodbit ri ruteup iwupemi. Sicefru gosoce hiwejizu gubjiv ipce awtu nezkih ma heaca semu ijupidu bakuvamas."
+  },
+  "apiKey": "0a43b8ac711a8518df7d458a36bc452f22fedc6723b3bd88569e87bae23ca20c",
+  "currency": {
+    "code": "AOA",
+    "name": "Angola Kwanza"
+  }
+}
